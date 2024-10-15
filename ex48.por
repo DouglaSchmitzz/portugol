@@ -10,7 +10,7 @@ programa
 	enquanto (cont <= 7) {
 		escreva("Digite um numero: \n")
 		leia(num)
-		soma = soma + num
+		soma += num
 		cont ++
 		
 	}
@@ -22,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 254; 
+ * @POSICAO-CURSOR = 162; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
