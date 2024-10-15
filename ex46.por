@@ -3,12 +3,12 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro cont = 1 
+		inteiro cont = 6	 
 		inteiro soma = 0
-		enquanto (cont <= 50) {
+		enquanto (cont <= 100) {
 			escreva(cont + " ")
 			soma += cont 
-			cont += 4
+			cont += 2
 		}
 		escreva(" = " + soma)
 	}
@@ -18,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 99; 
+ * @POSICAO-CURSOR = 94; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
