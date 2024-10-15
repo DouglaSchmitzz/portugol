@@ -16,7 +16,7 @@ programa
 		
 		se (media >= 7) {
 			escreva("A sua média foi " + media + "\n")
-			escreva("O aluno foi aprovado!")
+			escreva("Você foi aprovado!")
 		} senao {
 			escreva("A sua média foi " + media + "\n")
 			escreva("Você reprovou!")
@@ -28,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 337; 
+ * @POSICAO-CURSOR = 349; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
